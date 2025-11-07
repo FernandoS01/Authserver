@@ -30,5 +30,5 @@ Uma API simples e segura de autenticação e registro de usuários, desenvolvida
 
 ### 1️⃣ Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/FernandoS01/Authserver.git
+cd Authserver
