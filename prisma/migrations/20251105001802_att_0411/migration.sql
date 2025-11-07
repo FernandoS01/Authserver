@@ -1,0 +1,5 @@
+-- AlterTable
+ALTER TABLE "User" ADD COLUMN     "birth" TIMESTAMP(3) NOT NULL DEFAULT CURRENT_TIMESTAMP,
+ADD COLUMN     "country" TEXT,
+ADD COLUMN     "name" TEXT NOT NULL DEFAULT 'unknown',
+ADD COLUMN     "surname" TEXT NOT NULL DEFAULT 'unknown';
